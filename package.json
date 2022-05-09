@@ -1,0 +1,18 @@
+{
+  "name": "my-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "netlify": "netlify dev"
+  },
+  "author": "me",
+  "license": "ISC",
+  "dependencies": {
+    "airtable-node": "^0.1.20",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^10.3.0"
+  }
+}
